@@ -5,9 +5,12 @@
 ### Matriz
 
 Crie um script capaz de realizar a multiplicação de duas matrizes sem tamanho pré-definido<br>
+<br>
 (Prof Douglas Paes Mação - Desafio Pessoal)<br>
 :blue_book: 
 [Resultado](DESAFIOS/matriz.php)
+
+------
 
 ### Arstotzka
 
@@ -16,10 +19,13 @@ O software recebe 4 notas das seguintes disciplinas:<br>
 História | Matemática | Geografia | Inglês<br>
 o softwre calculará as médias simples das notas das 4 disciplinas, e verificará se há nota inferior a 6 em alguma delas, havendo nota inferior a 6 exibe a mensagem “reprovado”, não havendo exibe “APROVADO”.<br>
 Glória à Arstotzka!"<br>
+<br>
 (Prof Thiago Moraes Pinto - Desafio para a Sala)<br>
 :blue_book: 
 [Form](DESAFIOS/arstotzka/index.php) - 
 [Resultado](DESAFIOS/arstotzka/result.php)
+
+------
 
 ### Umbrella
 
@@ -33,6 +39,8 @@ A empresa Umbrella Corporation está desenvolvendo experimentos em 5 países do 
 :blue_book: 
 [Form](DESAFIOS/umbrella/index.php) - 
 [Resultado](DESAFIOS/umbrella/result.php)
+
+------
 
 ### IMC
 
@@ -50,12 +58,13 @@ Entre 35 e 39,99		| Obesidade II (severa)
 Acima de 40				| Obesidade III (mórbida) 
 
 Após exibir os nomes e as categorias exiba quem tem o IMC mais auto, quem tem o mais baixo e a média dos IMCs, exiba também o maior peso, a maior altura, o menor peso e a menor altura.<br>
+<br>
 (Prof Thiago Moraes Pinto - Desafio para a Sala)<br>
 :blue_book: 
 [Form](DESAFIOS/imc/index.php) - 
 [Resultado](DESAFIOS/imc/result.php)
 
------------
+------
 
 ## PROVA 
 
