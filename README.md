@@ -2,7 +2,7 @@
 :books: Repositório contendo vários exercícios de lógica de programação.
 
 ## DESAFIOS
-### Matriz
+### Matriz (PHP)
 
 Crie um script capaz de realizar a multiplicação de duas matrizes sem tamanho pré-definido<br>
 <br>
@@ -12,7 +12,7 @@ Crie um script capaz de realizar a multiplicação de duas matrizes sem tamanho 
 
 ------
 
-### IMC
+### IMC (PHP)
 
 Crie um programa que calcula o IMC Peso / (altura ao quadrado) de 10 indivíduos, e ao final exiba uma lista de nomes e IMC de todos os10 indivíduos.<br>
 Exiba também quantos estão em cada categoria do IMC representada abaixo:
@@ -36,7 +36,7 @@ Após exibir os nomes e as categorias exiba quem tem o IMC mais auto, quem tem o
 
 ------
 
-### Umbrella
+### Umbrella (PHP)
 
 A empresa Umbrella Corporation está desenvolvendo experimentos em 5 países do mundo(Africa do Sul, Rússia, Estados Unidos, França e Brasil), cadas um deste países possuí 5 experimentos(T, G, X, V e F) em andamento, pensando nisso você foi contratado para desenvolver um sistema que coleta a porcentagem de sucesso de cada experimento em cada pais com um formulário e exibe na tela os seguintes itens:<br>
 * Todos os países (em preto e negrito)e os experimentos ordenados por ordem de porcentagem de sucesso;
@@ -51,7 +51,7 @@ A empresa Umbrella Corporation está desenvolvendo experimentos em 5 países do 
 
 ------
 
-### Arstotzka
+### Arstotzka (PHP)
 
 "A grandiosa nação de Arstotzka te contratou para criar um sistema para auxiliar na avaliação da qualidade do ensino em suas 3 cidades, o software deve receber 4 notas bimestrais de 4 disciplinas e calcular a média de cada uma delas, se o aluno ficar com nota abaixo de 6 em qualquer disciplina é automaticamente reprovado.<br>
 O software recebe 4 notas das seguintes disciplinas:<br>
@@ -66,7 +66,7 @@ Glória à Arstotzka!"<br>
 
 ------
 
-## PROVA 
+## PROVA (PHP)
 
 * Q1 - Receba 10 numeros e coloque em ordem decrescente.<br>
 :green_book: 
