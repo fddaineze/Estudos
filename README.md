@@ -4,10 +4,9 @@
 ### DESAFIOS
 * **Matriz**<br>
 Crie um script capaz de realizar a multiplicação de duas matrizes sem tamanho pré-definido<br>
-(Prof Douglas Paes Mação - Desafio Individual)<br>
+(Prof Douglas Paes Mação - Desafio Pessoal)<br>
+:blue_book: 
 [Resultado](DESAFIOS/matriz.php)
-
-<br>
 
 * **Arstotzka**<br>
 "A grandiosa nação de Arstotzka te contratou para criar um sistema para auxiliar na avaliação da qualidade do ensino em suas 3 cidades, o software deve receber 4 notas bimestrais de 4 disciplinas e calcular a média de cada uma delas, se o aluno ficar com nota abaixo de 6 em qualquer disciplina é automaticamente reprovado.<br>
@@ -15,6 +14,8 @@ O software recebe 4 notas das seguintes disciplinas:<br>
 História | Matemática | Geografia | Inglês<br>
 o softwre calculará as médias simples das notas das 4 disciplinas, e verificará se há nota inferior a 6 em alguma delas, havendo nota inferior a 6 exibe a mensagem “reprovado”, não havendo exibe “APROVADO”.<br>
 Glória à Arstotzka!"<br>
+(Prof Thiago Moraes Pinto - Desafio para a Sala)<br>
+:blue_book: 
 [Form](DESAFIOS/arstotzka/index.php) - 
 [Resultado](DESAFIOS/arstotzka/result.php)
 
