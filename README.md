@@ -11,7 +11,8 @@ Estudo realizado em JavaScript para manipulação e tratamento de dados, com op�
 - - Desvio Médio
 - - Variância
 - - Desvio Padrão
-<br>
+
+
 :green_book: -[Clique e veja mais](ESTATISTICA/)
 
 ------
