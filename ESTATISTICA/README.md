@@ -11,5 +11,7 @@ Estudo realizado em JavaScript para manipulação e tratamento de dados, com op�
 - - Desvio Médio
 - - Variância
 - - Desvio Padrão
+
+
 :blue_book: 
 [VEJA FUNCIONANDO!](https://jimmyfilips.github.io/demo/estatistica/)
