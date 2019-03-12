@@ -1,5 +1,6 @@
 ## DESAFIOS
-### Baseados em PHP
+------
+### Matriz (PHP)
 
 Crie um script capaz de realizar a multiplicação de duas matrizes sem tamanho pré-definido<br>
 <br>
