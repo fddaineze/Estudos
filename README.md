@@ -1,4 +1,4 @@
-## PROBABILIDADE E ESTATÍSTICA
+## ESTATÍSTICA
 ### Baseado em JavaScript
 
 Estudo realizado em JavaScript para manipulação e tratamento de dados, com opções de:<br>
@@ -12,7 +12,7 @@ Estudo realizado em JavaScript para manipulação e tratamento de dados, com op�
 - - Variância
 - - Desvio Padrão
 <br>
-:blue_book: 
+:green_book: 
 [Clique e veja mais](ESTATISTICA/)
 
 ------
