@@ -28,7 +28,7 @@ A Página carrega os itens a partir de um banco de dados MySQL e apresenta as se
 - Exibição de Detalhes - a solicitação é transmitida via GET + Base64 e carrega as informações do banco
 
 O **Layout** é baseado em flexbox e grid básico, sem muitos recursos de CSS, o foco é voltado inteiramente ao PHP.
-
+<br>
 :blue_book: 
 [Clique e veja mais](VITRINE/index.php)
 
