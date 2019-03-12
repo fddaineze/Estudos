@@ -13,7 +13,7 @@ Estudo realizado em JavaScript para manipulação e tratamento de dados, com op�
 - - Desvio Padrão
 
 
-:green_book: -[Clique e veja mais](ESTATISTICA/)
+:blue_book: [Clique e veja mais](ESTATISTICA/)
 
 ------
 
