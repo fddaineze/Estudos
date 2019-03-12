@@ -12,8 +12,7 @@ Estudo realizado em JavaScript para manipulação e tratamento de dados, com op�
 - - Variância
 - - Desvio Padrão
 <br>
-:blue_book: 
-[Clique e veja mais](ESTATISTICA/)
+:blue_book:    [Clique e veja mais](ESTATISTICA/)
 
 ------
 
