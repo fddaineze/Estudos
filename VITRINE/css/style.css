@@ -1,0 +1,236 @@
+/* DEFAULT 
+-------------------------------------------------- */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    max-width: 1000px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.content-between {
+    justify-content: space-between;
+}
+.triste {
+    font-size: 10rem;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+/* HEADER 
+-------------------------------------------------- */
+.header {
+    background-color: #fff;
+    padding: .96rem 0;
+}
+.header .brand {
+    height: 50px;
+}
+.header form {
+    margin: auto 0;
+}
+.header input {
+    border: 1px solid #dfe1e5;
+    border-radius: 20px;
+    height: 34px;
+    width: 250px;
+    margin: 0;
+    padding-left: 20px;
+    font-size: .8rem;
+}
+.header input:hover {
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);
+}
+.header input.btn {
+    padding: 0;
+    background-color: #6FA744;
+    color: #fff;
+    width: 100px;
+}
+.header .row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+@media (max-width: 1015px) {
+    .header .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+@media (max-width: 510px) {
+    .header form {
+        width: 100%;
+    }
+    .header input {
+        width: calc(100% - 120px);
+        max-width: 250px;
+        margin-top: 10px;
+    }
+}
+/* NAV 
+-------------------------------------------------- */
+.nav {
+    background-color: #222;
+    color: #f4f4f4;
+    padding: .6rem 0;
+    font-size: .8rem;
+}
+.box {
+    background-color: #fff;
+    padding: 1rem 3rem;
+}
+a {
+    color: #fff;
+}
+.divider {
+    margin: 0 15px;
+    color: #777;
+}
+/* BODY 
+-------------------------------------------------- */
+.titulo-vitrine {
+    margin-bottom: 20px;
+    padding: 5px;
+    padding-top: 0px;
+    border: none;
+    border-bottom: 1px dotted #ccc;
+}
+.titulo-vitrine>h2 {
+    padding: 0px;
+    font-size: 20px;
+    color: #666;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+.grid-vitrine {
+    width: 25%;
+    display: inline-block;
+}
+.box-vitrine {
+    border: 1px solid #ebebeb;
+    margin: 0 8px 16px 8px;
+    border-radius: 4px;
+    background-color: #fff;
+    padding: 8px;
+    min-height: 335px;
+    text-align: center;
+}
+
+/* PRODUTO 
+-------------------------------------------------- */
+.produto-nome {
+    font-size: 14px;
+    color: #666;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.produto-valor {
+    font-size: 18px;
+    color: #cc0000;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.produto-codigo {
+    font-size: 12px;
+    color: #ccc;
+    margin-top: 0;
+}
+.produto-btn {
+    display: inline-block;
+    padding: 8px 10px;
+    background-color: #6FA744;
+    border: 1px solid #dfe1e5;
+    color: #fff;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 1rem;
+}
+.produto-btn:hover {
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);
+}
+
+/* VER MAIS 
+-------------------------------------------------- */
+.full-nome {
+    font-size: 14px;
+    color: #666;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.full-valor {
+    font-size: 18px;
+    color: #cc0000;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.full-codigo {
+    font-size: 12px;
+    color: #ccc;
+    margin-top: 0;
+}
+.full-desc {
+    margin-top: 0;
+    font-size: 14px;
+    color: #333;
+}
+.full-data {
+    margin-top: 0;
+    font-size: 15px;
+    color: #333;
+}
+.full-btn {
+    display: inline-block;
+    padding: 8px 10px;
+    background-color: #cecece;
+    border: 1px solid #dfe1e5;
+    color: #a7a7a7;
+    border-radius: 10px;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+.voltar {
+    font-size: 12px;
+    display: inline-block;
+    color: #9b9b9b;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+/* MEDIA QUERIES
+-------------------------------------------------- */
+@media (max-width: 900px) {
+    .grid-vitrine {
+        width: 33.3333333333%;
+    }
+}
+@media (max-width: 690px) {
+    .grid-vitrine {
+        width: 50%;
+    }
+}
+@media (max-width: 490px) {
+    .grid-vitrine {
+        width: 100%;
+    }
+}
