@@ -1,3 +1,5 @@
+![last commit badge](https://badgen.net/github/last-commit/fddaineze/Estudos) ![commits badge](https://badgen.net/github/commits/fddaineze/Estudos) ![license badge](https://badgen.net/github/license/fddaineze/Estudos)
+
 ## ESTATÍSTICA
 ### Baseado em JavaScript
 
